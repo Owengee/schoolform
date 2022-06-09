@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+img{
+    max-width: 30%;
+    margin: auto;
+}
+/* .content{
+    text-align: center;
+} */
+html{
+    background-color: rgb(217, 246, 246);
+}
